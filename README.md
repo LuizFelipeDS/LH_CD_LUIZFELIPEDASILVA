@@ -1,4 +1,4 @@
-# Desafio Cientista de Dados - Indicium – Programa Lighthouse
+# Desafio Cientista de Dados - Programa Lighthouse
 
 ## Contexto e Descrição do Problema
 A **Indicium** foi contratada por um estúdio de Hollywood, denominado **PProductions**, para apoiar a definição do próximo filme a ser produzido. Para esse fim, foi disponibilizado um banco de dados cinematográfico, que deve ser explorado a fim de identificar padrões e tendências relevantes, capazes de orientar a tomada de decisão do estúdio e reduzir os riscos associados a novos investimentos.
